@@ -20,3 +20,5 @@ The Student Information Management Project is an application for managing studen
 ﻿﻿﻿Kerimalieva Zarina: Create and connect database
 ﻿﻿﻿Makushova Nurzhibek: Create interface, requests
 ﻿﻿﻿Amanbekova Aidai: Create functionality
+   
+Screenshots in google drive
